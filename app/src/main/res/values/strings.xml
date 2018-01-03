@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleUnitTest</string>
+    <string name="instruction">Enter the numbers and perform your arithmetic operation</string>
+    <string name="btn_go">Go</string>
+</resources>
